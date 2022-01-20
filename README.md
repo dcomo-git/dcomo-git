@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dcomo93
+- 👋 Hi, I’m @dcomo-git
 - 👀 I’m interested in ... becoming a programmer
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... all things related to python and data science 
